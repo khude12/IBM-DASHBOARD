@@ -19,4 +19,4 @@ Features & Highlight:
 Bussiness Problem
 
 Screenshots / Demos
-Show what dashboard look like
+Show what dashboard look like - https://github.com/khude12/IBM-DASHBOARD/blob/main/IBM%20SCREENSHOT%20.png
